@@ -1,0 +1,16 @@
+{
+  "name": "your/repo",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "your-homepage",
+  "authors": [
+    {
+      "name": "yourName",
+      "homepage": "yourURL"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
